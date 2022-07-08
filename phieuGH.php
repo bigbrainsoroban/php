@@ -611,7 +611,7 @@ if (!empty($_GET["IDCTVL"])) {
 
     <div class="container">
         <div class="k57">
-            <p class="c26"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 215.43px; height: 78.67px;"><img alt="" src="image/image1.png" style="width: 215.43px; height: 78.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+            <p class="c26"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 215.43px; height: 78.67px;"><img alt="" src="image1.png" style="width: 215.43px; height: 78.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
             <p class="c24"><span class="c39">PHIẾU GIAO HÀNG</span></p>
             <p class="c24"><span class="c37">Ngày: </span><span class="c37"><?php echo $_GET["Ngaygiao"] ?></span></p>
             <p class="c26"><span class="c29">Khách hàng : <?php echo $_GET["TenKH"] ?></span></p>
